@@ -1,0 +1,98 @@
+a {
+  color: red;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  min-height: auto;
+  text-align: center;
+  color: #fff;
+  background-color: black;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+section {
+  color: red;
+}
+
+#giveBackSection {
+  background-color: #000;
+}
+
+header h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 50px;
+  font-weight: 300;
+}
+
+.section-heading {
+  margin-top: 0;
+  margin-bottom: 20px;
+}
+
+.intro-container {
+  color: red;
+  background-color: black;
+  padding: 70px;
+  text-align: center;
+  border-style: double;
+}
+
+.section-container {
+  ;
+}
+
+.about-me-container {
+  color: red;
+  background-color: black;
+  text-align: center;
+  border-style: double;
+}
+
+.give-back-container {
+  padding: 20px 0 40px;
+  text-align: center;
+  padding: 70px;
+  border-style: double;
+}
+
+.future-plans-container {
+  color: red;
+  background-color: black;
+  text-align: center;
+  border-style: double;
+}
+
+.terms-container {
+  color: red;
+  background-color: black;
+  text-align: center;
+  border-style: double;
+}
+
+.reflection-container {
+  color: red;
+  background-color: black;
+  text-align: center;
+  border-style: double;
+}
+
+.my-brothers-container {
+  color: red;
+  background-color: black;
+  text-align: center;
+  border-style: double;
+}
+
+.footer-container {
+  color: red;
+  background-color: black;
+  text-align: center;
+  border-style: double;
+}
