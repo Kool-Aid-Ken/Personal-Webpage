@@ -248,22 +248,22 @@ header .header-content .header-content-inner p {
 
   .navbar-default.affix .navbar-header .navbar-brand {
     letter-spacing: 0;
-    color: white;
+    color: black;
   }
 
   .navbar-default.affix .navbar-header .navbar-brand:hover,
   .navbar-default.affix .navbar-header .navbar-brand:focus {
-    color: white;
+    color: black;
   }
 
   .navbar-default.affix .nav>li>a,
   .navbar-default.affix .nav>li>a:focus {
-    color: white;
+    color: black;
   }
 
   .navbar-default.affix .nav>li>a:hover,
   .navbar-default.affix .nav>li>a:focus:hover {
-    color: white;
+    color: black;
   }
 }
 
@@ -282,7 +282,7 @@ header .header-content .header-content-inner p {
 .btn-default.active,
 .open>.dropdown-toggle.btn-default {
   border-color: black;
-  color: white;
+  color: black;
   background-color: black;
 }
 
@@ -310,8 +310,8 @@ fieldset[disabled] .btn-default:active,
 .btn-default.disabled.active,
 .btn-default[disabled].active,
 fieldset[disabled] .btn-default.active {
-  border-color: white;
-  background-color: black;
+  border-color: yellowgreen;
+  background-color: yellowgreen;
 }
 
 .btn-default .badge {
